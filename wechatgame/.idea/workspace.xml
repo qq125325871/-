@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="079081df-2426-4ab6-8b64-d69393abfe35" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/project.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15381">
+              <caret line="837" column="17" lean-forward="true" selection-start-line="837" selection-start-column="17" selection-end-line="837" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/helper.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11043">
+              <caret line="409" column="3" selection-start-line="409" selection-start-column="3" selection-end-line="409" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cocos2d-js-min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1052406">
+              <caret line="38978" column="41" selection-start-line="38978" selection-start-column="27" selection-end-line="38978" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/project.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/settings.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getdataAsync</find>
+      <find>getda</find>
+      <find>FBInstant</find>
+      <find>setDataAsync</find>
+      <find>_addBossLeft</find>
+      <find>start</find>
+      <find>//</find>
+      <find>onload</find>
+      <find>getDataAsync</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/settings.js" />
+        <option value="$PROJECT_DIR$/game.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/utils/config.js" />
+        <option value="$PROJECT_DIR$/src/project.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1036" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wechatgame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatgame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FruitShooting" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wechatgames\dajiangshi\wechatgame\res\import\7f" />
+      <recent name="C:\wechatgames\dajiangshi\wechatgame\res\import\dc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wechatgames\dajiangshi\wechatgame\utils" />
+      <recent name="C:\wechatgames\dajiangshi\wechatgame" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079081df-2426-4ab6-8b64-d69393abfe35" name="Default Changelist" comment="" />
+      <created>1552987225106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552987225106</updated>
+      <workItem from="1552987226462" duration="3556000" />
+      <workItem from="1553045993712" duration="10471000" />
+      <workItem from="1553495477066" duration="1278000" />
+      <workItem from="1553500977440" duration="19000" />
+      <workItem from="1554947633750" duration="723000" />
+      <workItem from="1554948382877" duration="618000" />
+      <workItem from="1555311308366" duration="2040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18705000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.071316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/68/68940a94-eb76-4e36-a78f-2dc2dfda659f.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/70/70d412dd-7ace-456e-99d7-96b111f664bf.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/71/71561142-4c83-4933-afca-cb7a17f67053.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/72/729d91d3-936e-41f6-a30a-c57d1f62baca.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/76/76f308bf-c6f7-46dd-ae15-db16354b1d81.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/80/80f7ac41-d0ad-40d8-9761-6064b5a0fb46.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/80/80f86228-9cbe-4f04-8bdc-5149fe2e8452.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/82/822b38fe-5da5-4762-a803-2073fcbb57bf.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/a0/a06b351c-761c-4cf3-a012-100a2ed537f2.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/a2/a27f19bb-4153-4c52-a495-c332d3713110.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/a8/a8b55ef5-a540-44a7-a37b-6eb2c158e432.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/a8/a81fd0f5-0ca2-4684-8ad1-7fba93daada7.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/a9/a9f9d70e-6609-47fb-ba86-76f3460b1e1b.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/a9/a9011d87-72a6-4b06-a78b-0b1d1f87b453.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/ad/ad5e5798-72d3-472e-963e-e4b714b04fe0.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/ad/adabefd2-e66e-420e-b1e1-ad329c77bbe5.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/b7/b7025d9e-426b-4689-b5a0-d03bb211becd.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/b7/b7876ce1-bd70-4f56-95b4-ac4cac1e80e5.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/c5/c575f996-e778-4b37-9e13-ce6cb0004dc5.mp3" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/c6/c60bdd6c-26ec-4d18-b15f-530d636cc607.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/c8/c8ba4348-65da-47ac-a75a-e76d93fe42d6.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cc/ccace0ca-000c-498a-859b-6a6003a0631f.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cc/ccd180be-a9bc-49c4-b34a-e3b486b356e7.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cc/ccf5f718-4ac7-42b6-9def-4482e4e799aa.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cd/cd61bcaf-b826-4cb8-9ee3-936c23d7e135.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/ce/ce38cab3-384f-4e9a-bbd7-d2300f8b44b4.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cf/cf5a8213-1913-43ba-9a41-42afade0f70b.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cf/cf316601-34ea-43b0-9d0b-d3ef99951088.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/cf/cfc01690-ae3d-45b6-8dd3-c5d977f23f09.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/d0/d087c1a2-8e4e-46e6-b52a-133854ac0ad9.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/d3/d3a5811d-d73a-4f56-a3b5-2763711ecff2.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/d4/d4379ae5-e5d3-4f11-ab8b-9793ac0b080d.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/d5/d559ce3d-547b-417e-b022-652036d7e60c.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/db/db9d632f-bf3a-47e9-8cc1-2faf47b93a3c.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/dc/dc595d84-f0ee-4490-a37d-7cc1db830e2b.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/dd/ddfdeb22-e511-4610-b4e2-67f6a275cecc.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/e1/e15aff74-a986-430e-ad17-3315577d7aea.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/e7/e7aca89d-c919-496e-a66a-775490d09ef8.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/eb/ebeae00e-c2f2-40b8-a93c-9951838f3d8b.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/ee/ee552fe3-4834-4957-a39a-a4ccfed5e4fd.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/f4/f4700f48-e013-43f0-bc5b-42a1df7a92a5.mp3" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/f7/f70fa95c-1fe4-44e4-a7de-8fcc5821e5c4.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/fc/fca01975-63e4-4641-bb51-e531d5e6eef1.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/fc/fce1c6d7-9864-4cb2-8477-80d69ce69cbf.png" />
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/e0/e056ed40-d68e-48de-bde8-c5266b208999.png" />
+    <entry file="file://$PROJECT_DIR$/src/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15381">
+          <caret line="837" column="17" lean-forward="true" selection-start-line="837" selection-start-column="17" selection-end-line="837" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/helper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11043">
+          <caret line="409" column="3" selection-start-line="409" selection-start-column="3" selection-end-line="409" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1052406">
+          <caret line="38978" column="41" selection-start-line="38978" selection-start-column="27" selection-end-line="38978" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/project.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/settings.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
